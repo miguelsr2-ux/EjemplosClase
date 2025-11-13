@@ -57,3 +57,34 @@
     color: beige;
     background-color: black;
 }
+
+/*carrito*/
+#carritoLista{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(177, 222, 145);
+    background-color: rgb(202, 231, 201);
+}
+
+/*Concurrencia*/
+pre{
+    text-align: left;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 80%;
+    color: aquamarine;
+}
+
+/*try catch*/
+#bodyTry{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mensaje{
+    font-weight: bold;
+    color: red;
+}
